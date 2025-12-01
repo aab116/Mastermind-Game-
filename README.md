@@ -59,8 +59,8 @@ Like **Wordle**, the game shows how many digits are correct or misplaced —
 
 ## 🎥 Tutorial Video
 
-👉 **[Click here to watch the tutorial video](https://example.com)**  
-*(Replace with your actual link — YouTube, Drive, OneDrive, URCourses, etc.)*
+👉 **[Click here to watch the tutorial video](https://youtube.com/shorts/2oKFAo6qNbI?si=-NwigV1qvdkoHunr)**  
+
 
 ---
 
