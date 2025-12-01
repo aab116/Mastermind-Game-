@@ -1,6 +1,6 @@
 # 🔢 STM32 Mastermind LED Guessing Game
 
-This project recreates the classic **Mastermind** game using the **STM32F103C8T6 (Blue Pill)** microcontroller.  
+This project recreates the classic **Mastermind** game using the **STM32F103RB microcontroller.  
 You must guess a **4-digit hexadecimal code (0–F)** within **8 attempts** using DIP switches to input digits and a push button to confirm.
 
 ---
@@ -67,7 +67,6 @@ Like **Wordle**, the game tells you how many digits are correct or misplaced —
 
 ## ✨ Features
 
-✔ Bare-metal STM32 programming (no HAL)  
 ✔ DIP switch hex input (0–15)  
 ✔ LED feedback display  
 ✔ Button input with debounce  
@@ -83,12 +82,6 @@ Like **Wordle**, the game tells you how many digits are correct or misplaced —
 - 7-segment or LCD output  
 - FreeRTOS-based game states  
 - Score tracking & EEPROM storage  
-
----
-
-## 📄 License
-
-MIT License — free to modify and share.
 
 ---
 
